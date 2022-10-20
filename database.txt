@@ -1,0 +1,16 @@
+id -
+picture - TEXT NULL
+Brand - VARCHAR(8) NOT NULL
+Model - VARCHAR(20) NOT NULL
+Color - VARCHAR(15) NULL
+km - DECIMAL NULL
+Matriculation - TINYINT NOT NULL
+Transmission - VARCHAR() NULL
+Power - VARCHAR() NULL
+Fuel - VARCHAR(20) NOT NULL
+Consumption -
+Traction - VARCHAR() NULL
+Warranty - TINYINT NOT NULL
+
+
+
